@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apiplanilhas-442123",
+  "private_key_id": "6e12c46da424dda25e49e3a5abc72c350c83e273",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQvnCrjgHGi/gW\nq8bKosrMW3yeqb7/SaDPwMUwrsvp6k/n3FSVTgHXGtW1kGKnf7/183xGD/5TS1Se\nDmAzeGspCCy+G9fqQym0+xVv8Az3vUf/QqS3w3qH64oXqc3QQvar0sbZloJLoozh\nL8lx5a8k0/LEax0dz+x2J5AaXMu5l44a92AUQ1nf7DMiUjVKeE4hbv1EsXYmbvov\nyS+nIpSgT0M3KHuDj1VPnsTokEzoXepDAEzyWN4Uc5d0FB5+snKkK+1gZyKrLA15\nzz23aW7KQjv8G2SoHaCL0aQ+usG37rzqLgUQmjfrcI/TAagGVDSn6h6MRZSI1sag\nKgkQgqKfAgMBAAECggEAEVy1rF88YJJFyUTyXOpbadH2NJAz1bH/ESicficbyNH3\nYXafBmgdmRGfUuG2gu4KPl/JJ16vLahnWlohwEY0y43lgs54EAEUF/yGVPAnc/en\nZGDbqHk22NVLgBpchwT61WHLrk9pePcFNrmtzK5o+ewzFgk+u7sOlOlHgBnVzBLb\nZKI0f5R6STmtCHRpChV0/EthM4296U/F5Uu3BavizgC/a+zo2agMBr9XmPyRKZGA\nP3/2Po06NQEtUkmX+OQ7VqYe43XlYw5RQiGbm3NI+BHKQz2vjFPIwXlOWuCsw9cJ\nqalqa6qyFzxtgv2BjbzqEz9CPIb8+eDwvpQAaOij2QKBgQD7dZpIyF/+HzXVyS4p\nFKSJip9PxOu50otDbdneS+2b/qt1Kpv+d9HR8FIHctnEP2TFQPERuCZEFJZbSqZT\nNbmNr46VoxO2ANwFUulh3pWDZNOpAkNw9L0Enls6NjGZgp4F9ffCKeXIqPrSn7KE\nThCfKQOx/BkTFtH4nNe+KA2DMwKBgQDUg2Fz00k6tETLPM0AHgpKKn7UY2itrCZA\nf9P4S25uwC/42TOktChS6kukydFL1eLwdJgwoueomCZjrv+CwAQboIcahLKUljnZ\novuRgB4+XV2Ov2xGEx7/Jm1Dp73qDQeRfavm5SZJUOaC2geulJiw9kQ8M1DVABaf\nKmhFswKi5QKBgQCPtSAdZFZn1tJfgYAd/iwiZtSxM+s74XWxbYBLqLz8n8jBRz6r\naTLCdkOK+jo2C7y9dmXPKJzF37YmKj1v5I5MyP4FypMjOs6DRGUYh6qO0vqb5i1A\nyr2TfCTK2dnyz1EcOvwDPQqTaO8fnCDbt/mL3Fa+S0LRRANvv8MUa7N9PQKBgQCQ\nooplBlxEtAROPqdXeRqPt7RyYOYRraSrKVTfHJegkPUVbN6VLnhzVjr9gM4NyxiV\nhwU9tOHuAP+/wI7uMjmZg/vvtHjGYCgnU6HcOVJcJ7dRPD84wjLKfSDIdxXugcew\n4dNpZnRUWddJH5My4re5WSK/xj0xesnqsjYdmeQlcQKBgFRXvgx1xCs8+mALcAiT\new7sbKazFKv8iTxfPElwKWiM0q657BwKtUdacsypT1ruc1CRfOuIanlKPQEI0dSV\nhDq+lpL+H1uQpaF60IpMaQQG0tAt4B77j7Hzu575hsd6ofOknDsv3W0TWwatGhsV\nO+xYaXn5NKPDceAZRtNwnMDx\n-----END PRIVATE KEY-----\n",
+  "client_email": "johnyfreitas@apiplanilhas-442123.iam.gserviceaccount.com",
+  "client_id": "108233369338352367792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/johnyfreitas%40apiplanilhas-442123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
