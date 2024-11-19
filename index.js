@@ -56,12 +56,12 @@ const SPREADSHEET_ID = '1ds8wdKuHXp0hm6NZgS0k1y_xDKKy6Tr2hLau6DKNpuE';
 
 // Rota para salvar os dados na planilha
 app.post('/save-letter', async (req, res) => {
-  const { name, state, city, letter, email, whatsapp } = req.body;
+  const { name, idade, state, city, presente, letter, whatsapp } = req.body;
 
   if (!name || !state || !city || !letter || !email) {
     return res.status(400).json({ error: 'Todos os campos são obrigatórios' });
   }
-  console.log("Teste" ,SPREADSHEET_ID, CREDENTIALS.client_email, CREDENTIALS.private_key )
+//   console.log("Teste" ,SPREADSHEET_ID, CREDENTIALS.client_email, CREDENTIALS.private_key )
 
   try {
     await sheets.spreadsheets.values.append({
@@ -69,7 +69,7 @@ app.post('/save-letter', async (req, res) => {
       range: 'A1', // Ajuste para a aba e célula desejadas
       valueInputOption: 'USER_ENTERED',
       resource: {
-        values: [[name, state, city, letter, email, whatsapp, new Date().toISOString()]],
+        values: [[name, idade, state, city, presente, letter, whatsapp, new Date().toISOString()]],
       },
     });
 
